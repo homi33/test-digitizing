@@ -1,0 +1,17 @@
+.modalContainer {
+  background: white;
+  margin: auto;
+  width: 768px;
+  position: absolute;
+  top: 25%;
+  left: 25%;
+}
+.fullWidth {
+  display: flex;
+  gap: 20px;
+}
+.quantityContainer {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+}
